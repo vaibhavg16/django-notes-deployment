@@ -28,3 +28,12 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+
+
+.env
+DB_NAME=test_db
+DB_USER=root
+DB_PASSWORD=root
+DB_PORT=3306
+DB_HOST=db_cont
