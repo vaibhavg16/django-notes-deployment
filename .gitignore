@@ -1,0 +1,4 @@
+.env
+*.pyc
+__pycache__/
+django-notes-app/data/
